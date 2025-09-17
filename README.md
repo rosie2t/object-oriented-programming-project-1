@@ -10,5 +10,7 @@ The full project documentation and implementation details are described in the a
 This project is for educational purposes. If you use this code, please provide attribution.
 
 Author: Rosie Manoli
+
 Course: Object-Oriented Programming (Part 1)
+
 University: Harokopio University
